@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "0-isupper.h"
+#include "main.h"
 
 int main(void)
 {

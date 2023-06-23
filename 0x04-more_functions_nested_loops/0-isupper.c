@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
-#include "0-isupper.h"
+#include "main.h"
 
 int _isupper(int c) 
 {
